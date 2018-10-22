@@ -1,4 +1,4 @@
 
 # summer-wind
 codes make the world better
-creating a new branch is quick.
+creating a new branch is quick and simple.
